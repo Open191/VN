@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Chào mừng đến làng Elf!](README.md)
+* [Welcome to Elfworld!](README.md)
 * [Language](language/README.md)
   * [English （Main）](https://docs.elfworld.games)
   * [Việt Nam](https://elfworld.games)
