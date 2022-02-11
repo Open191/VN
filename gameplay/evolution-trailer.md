@@ -6,6 +6,8 @@ Trong game Elfworld, tiến hóa là quá trình biến đổi của Elf đến 
 
 Hình thái tiến hóa của Elf gồm: hình thái Baby Elf, hình thái Adult Elf, hình thái Ultimate Elf. Thông qua tiến hóa để tăng cao sức mạnh cơ bản của Elf, và mở khóa skill mới của Elf.
 
+Controlled by elf evolution level. Elf evolution form: baby form, adult form, ultimate form. Upgrade the elf's regular abilities through evolution and unlock new abilities for the elf.
+
 #### **Phí tiến hóa**
 
 | Độ Hiếm | Phí tiến hóa thành Adult Elf | Phí tiến hóa thành Ultimate Elf |
