@@ -4,32 +4,36 @@ Trò chơi được phát triển bởi đội ngũ nhân sự quốc tế có n
 
 #### Đội ngũ vận hành:
 
-![Khanh Le](<../.gitbook/assets/Khanh Le.jpg>)
+### Khanh Le
 
-Khanh Le
+![](../.gitbook/assets/0)
 
-![Alex Liu](<../.gitbook/assets/Alex Liu.jpg>)
+### lex Liu
 
-lex Liu
+![](../.gitbook/assets/1)
 
-![Brian Breslin](<../.gitbook/assets/Brian Breslin.jpg>)
+### Brian Breslin
 
-Brian Breslin
+![](../.gitbook/assets/2)
 
-![Hao Li](<../.gitbook/assets/Hao Li.jpg>)
+### Hao Li
 
-Hao Li
+![](../.gitbook/assets/3)
 
-![Boon Loo Gan](<../.gitbook/assets/Boon Loo Gan.jpg>)
+### Boon Loo Gan
 
-Boon Loo Gan
+![](../.gitbook/assets/4)
 
 #### Chuyên gia cố vấn
 
-![Federico Carlos Polak](<../.gitbook/assets/Federico Carlos Polak.jpg>)
+### Federico Carlos Polak
 
-Federico Carlos Polak
+![](../.gitbook/assets/5)
 
-![Chou Zhenxing](<../.gitbook/assets/Chou Zhenxing.png>)
+### Erika Enbarg
 
-Chou Zhenxing
+![](../.gitbook/assets/6)
+
+### Chou Zhenxing
+
+![](../.gitbook/assets/7)
