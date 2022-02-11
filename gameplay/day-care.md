@@ -1,6 +1,6 @@
 # Phòng Sinh Sản (sắp ra mắt)
 
-Phòng sinh sản là nơi sinh sản và ấp nở trứng. Người chơi có thể gửi Elf, trứng Elf, và cần trả phí ELFT
+Phòng sinh sản là nơi sinh sản và ấp nở trứng. Người chơi có thể gửi Elf, trứng Elf, và cần trả phí ELFT.
 
 #### **Sinh Sản**
 
