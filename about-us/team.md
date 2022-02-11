@@ -28,12 +28,12 @@ Trò chơi được phát triển bởi đội ngũ nhân sự quốc tế có n
 
 ### Federico Carlos Polak
 
-![](../.gitbook/assets/5)
+![](<../.gitbook/assets/Federico Carlos Polak.jpg>)
 
 ### Erika Enbarg
 
-![](../.gitbook/assets/6)
+![](<../.gitbook/assets/Erika Enbarg.jpg>)
 
 ### Chou Zhenxing
 
-![](../.gitbook/assets/7)
+![](<../.gitbook/assets/Chou Zhenxing.jpg>)
