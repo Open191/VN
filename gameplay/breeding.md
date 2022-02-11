@@ -8,13 +8,19 @@ Trước khi được sinh ra Elf sống trong trứng Elf, trứng có lớp v�
 
 #### **Điều kiện sinh sản**
 
-* Yêu cầu là Elf khác giới tính với nhau.
-* Có thể sử dụng bất cứ thể loại nhân vật NFT.
-* Elf cha mẹ không được tiến hành sinh sản cùng đời sau của chúng.
-* Adult Elf và Ultimate Elf mới có thể tiến hành sinh sản.Baby Elf không thể tiến hành sinh sản.
-* Số lần sinh sản của cả 2 Elf chưa vượt quá 7 lần.
-* Người chơi sử dụng Elf cái cần thanh toán ELFT để làm phí sinh sản
-* Thời gian CD sinh sản của Elf cả giới tính nam và nữ đều bằng với chu kỳ trứng nở, sau khi trứng nở thì Elf cha mẹ mới có thể tiến hành đợt sinh sản mới.
+Yêu cầu là Elf khác giới tính với nhau.
+
+Có thể sử dụng bất cứ thể loại nhân vật NFT.
+
+Elf cha mẹ không được tiến hành sinh sản cùng đời sau của chúng.
+
+Adult Elf và Ultimate Elf mới có thể tiến hành sinh sản.Baby Elf không thể tiến hành sinh sản.
+
+Số lần sinh sản của cả 2 Elf chưa vượt quá 7 lần.
+
+Người chơi sử dụng Elf cái cần thanh toán ELFT để làm phí sinh sản
+
+Thời gian CD sinh sản của Elf cả giới tính nam và nữ đều bằng với chu kỳ trứng nở, sau khi trứng nở thì Elf cha mẹ mới có thể tiến hành đợt sinh sản mới.
 
 #### **Chi phí sinh sản**
 
@@ -64,11 +70,17 @@ Nhiều chế độ chơi mới sẽ ra mắt trong tương lai. Chẳng hạn n
 
 **Kết quả sinh sản**
 
-* Mỗi lần sinh sản sẽ nhận được 1 quả trứng Elf.
-* Người chơi sở hữu Elf giới tính nữ sẽ nhận được trứng Elf khi sinh sản.
-* Elf được ấp nở từ trứng Elf ra ở trạng thái Baby Elf.
-* Sức mạnh cơ bản của đời con sẽ dựa vào chỉ số của Elf cha mẹ
-* Khi 2 Elf sinh sản sẽ có thể xuất hiện nhân vật NFT mới, và độ hiếm của chúng sẽ quyết định xác suất xuất hiện độ hiếm cao ở đời con. -> Là sao ta?
+You can only get 1 fairy egg per breeding.
+
+Female elf players receive spawn elf eggs.
+
+Male elf players receive a quarter of the reproduction fee in return.
+
+From the fairy eggs hatch the lowest form of elf.
+
+The elves reproduce to produce offspring elves, and the offspring's regular abilities have a random probability of plus or minus 20% according to the offspring's own NFT character value.
+
+Two sprites may spawn new NFT characters, and their rarity determines the probability that their offspring will have high rarity.
 
 | Mức độ          | N=1    | R=2    | SR=3   | SSR=4  | GR=5   | UR=6   |
 | --------------- | ------ | ------ | ------ | ------ | ------ | ------ |
