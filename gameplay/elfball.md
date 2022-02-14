@@ -12,7 +12,7 @@ Trong game có tổng cộng 9,000 quả Genesis Elf, trong đó có 8,000 quả
 
 Quả cầu Elf Thường
 
-Quả cầu Elf Thường được tạo ra từ việc cho Elf sinh sản.
+Quả cầu Elf Thường được tạo ra từ việc cho Elf nhân giống. Elf nở ra từ Quả Cầu Elf Thường và Quả Cầu Genesis Elf.
 
 Xác suất xuất hiện theo độ hiếm của quả cầu Elf:
 

@@ -14,8 +14,8 @@
 
 #### **Nguyên tắc giải ngân**
 
-Team phát triển sẽ bắt đầu được giải ngân sau 2 tháng kể từ khi phát hành game, mỗi tháng trả 0.3%, tổng cộng sau 42 tháng sẽ hoàn tất giải ngân.
+Team phát triển sẽ bắt đầu được mở khoá token sau 2 tháng kể từ khi phát hành game, mỗi tháng mở 0.3%, tổng cộng sau 42 tháng sẽ mở khoá hoàn toàn 100% token.
 
 Việc quản lý và vận hành thị trường sẽ do cộng đồng DAO tự thực hiện.
 
-Nhà đầu tư ban đầu sẽ được trả 30% sau khi hoàn tất đợt bán Box, 30% sau khi ra mắt chế độ PVE, 40% còn lại sau 90 ngày ra mắt chế độ PVE.
+Nhà đầu tư ban đầu sẽ được mở khoá 20% token sau khi hoàn tất đợt bán Box vòng whitelist, 20% tiếp theo sau khi hoàn tất đợt bán Box vòng Public, 60% cho những tháng tiếp theo ( mỗi tháng 20%, bắt đầu sau 30 ngày hoàn tất đợt bán Box vòng Public).

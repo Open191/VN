@@ -14,7 +14,7 @@ Tổng cung: 100 000 000 Token
 
 Nền kinh tế Token của Elfworld áp dụng mô hình giảm phát. Khi tổng cung còn 21,000,000 sẽ dừng giảm phát.
 
-Quy tắc cụ thể: Mỗi giao dịch chuyển khoản sẽ bị trừ thuế 6%. Trong đó 2% sẽ bị tiêu hủy, 1% để trả thưởng giới thiệu bạn bè, 3% vào Quỹ chung và tự động tái chuyển đổi thành Token lưu thông. -> Không biết thế này đã đúng chưa
+Quy tắc cụ thể: Mỗi giao dịch chuyển khoản sẽ bị trừ thuế 6%. Trong đó 2% sẽ bị tiêu hủy, 1% để trả thưởng giới thiệu bạn bè, 3% vào Quỹ chung và tự động tái chuyển đổi thành Token lưu thông.
 
 Tác dụng của Quỹ chung: khi giá trị Token giảm nhiều sẽ khởi động cơ chế bảo vệ thị trường, thu mua lại ELFT và NFT Elf.
 
