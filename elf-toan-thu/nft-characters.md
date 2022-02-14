@@ -6,7 +6,7 @@ Người chơi thông qua việc mua quả cầu Elf sẽ nhận được Elf ng
 
 ![](../.gitbook/assets/Ho-Oh.png)
 
-It has a mythical power to resurrect the dead. It was the only known Pokémon to learn Sacred Fire, its former signature move. It is said that when it flies its huge wings create bright, colorful rainbows. The rare few who bear witness to it is promised eternal happiness.
+It has a mythical power to resurrect the dead. It was the only known elf to learn Sacred Fire, its former signature move. It is said that when it flies its huge wings create bright, colorful rainbows. The rare few who bear witness to it is promised eternal happiness.
 
 {% tabs %}
 {% tab title="Basic Data" %}
