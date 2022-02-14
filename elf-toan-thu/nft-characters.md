@@ -447,7 +447,7 @@ It can sense danger through a telepathic radar. When it does, it teleports to a 
 
 ![](../.gitbook/assets/Piplup.png)
 
-It is an adept hunter that tears at its prey with its scythes. Thanks to its green coloration, it can camouflage itself well in the grasslands and forests where it lives. Humans rarely encounter wild it in these areas, however. Said to be like a ninja, It can move so quickly that it cannot be followed, increasing the effectiveness of its scythes. It maintains the sharpness of its blades through battle as well as by cutting through hard objects, such as trees; it can cut down a massive tree with just a single slice. The anime has shown that wild It form swarms with a single leader chosen through combat. When a challenger successfully defeats a current leader and replaced it, the defeated leader is exiled from the swarm. It has also been shown that It becomes aggressive when faced with the color red.
+It has a strong sense of self-pride. Because of its pride, it has a hard time accepting food from humans and bonding with its caretakers. It will even puff out its chest after it falls down, which it often does due to its poor walking abilities. However, it is a skilled swimmer that can dive for over ten minutes in order to hunt. It has also been shown to fly short distances in the anime.
 
 {% tabs %}
 {% tab title="Basic Data" %}
