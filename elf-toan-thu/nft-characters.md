@@ -22,25 +22,25 @@ It has a mythical power to resurrect the dead. It was the only known Pokémon to
 {% tab title="Permanent Stats" %}
 | Type                      | Value |
 | ------------------------- | ----- |
-| AKT (Attack Power)        | 22226 |
-| Hit Points (HP)           | 15141 |
+| AKT (Attack Power)        | 21737 |
+| Hit Points (HP)           | 15140 |
 | POT (Potential)           | 80    |
-| STA (Stamina)             | 1371  |
+| STA (Stamina)             | 1514  |
 | _+STA_                    | 121   |
-| STR (Strength)            | 1338  |
+| STR (Strength)            | 1478  |
 | +_STR_                    | 146   |
-| AGI (Agility)             | 2537  |
+| AGI (Agility)             | 2536  |
 | _+AGI_                    | 178.6 |
-| INT (Intelligence)        | 2433  |
+| INT (Intelligence)        | 2690  |
 | _+INT_                    | 146   |
-| DAM (Damage)              | 5372  |
-| ADF (Magic Defense)       | 2686  |
+| DAM (Damage)              | 5400  |
+| ADF (Magic Defense)       | 2690  |
 | ARM (Armor)               | 1477  |
 | CRE (Critical Resistance) | 739   |
-| CRI (Critical)            | 1402  |
-| EVA (Evasion)             | 1075  |
+| CRI (Critical)            | 1268  |
+| EVA (Evasion)             | 1080  |
 | HIT                       | 757   |
-| SPE (Speed)               | 2801  |
+| SPE (Speed)               | 2536  |
 {% endtab %}
 
 {% tab title="Breeding" %}
