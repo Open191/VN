@@ -447,7 +447,7 @@ It can sense danger through a telepathic radar. When it does, it teleports to a 
 
 ![](../.gitbook/assets/Piplup.png)
 
-It has a strong sense of self-pride. Because of its pride, it has a hard time accepting food from humans and bonding with its caretakers. It will even puff out its chest after it falls down, which it often does due to its poor walking abilities. However, it is a skilled swimmer that can dive for over ten minutes in order to hunt. It has also been shown to fly short distances in the anime.
+It has a strong sense of self-pride. Because of its pride, it has a hard time accepting food from humans and bonding with its caretakers. It will even puff out its chest after it falls down, which it often does due to its poor walking abilities. However, it is a skilled swimmer that can dive for over ten minutes in order to hunt. It has also been shown to fly short distances.
 
 {% tabs %}
 {% tab title="Basic Data" %}
