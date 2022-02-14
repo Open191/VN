@@ -545,7 +545,7 @@ It has a long, thin tail surrounded by a light-blue, semitransparent fin. Its ta
 
 ![](../.gitbook/assets/Caterpie.png)
 
-As it grow and develop over time, it will shed its skin many times before finally cocooning itself in thick silk. It has a voracious appetite, which drives it to eat a hundred leaves a day. It will even eat leaves bigger than itself. According to Pokémon Adventures, its favorite food is the Vermilion flower. It lives in temperate forests and jungles.
+As it grow and develop over time, it will shed its skin many times before finally cocooning itself in thick silk. It has a voracious appetite, which drives it to eat a hundred leaves a day. It will even eat leaves bigger than itself. Its favorite food is the Vermilion flower. It lives in temperate forests and jungles.&#x20;
 
 {% tabs %}
 {% tab title="Basic Data" %}
