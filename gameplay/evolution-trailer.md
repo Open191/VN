@@ -18,3 +18,5 @@ Controlled by elf evolution level. Elf evolution form: baby form, adult form, ul
 | SSR     | 160                          | 320                             |
 | GR      | 180                          | 360                             |
 | UR      | 200                          | 400                             |
+
+30% of the evolution cost will be automatically destroyed, and the rest will be used as project income.

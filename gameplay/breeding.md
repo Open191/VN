@@ -36,6 +36,8 @@ Người chơi cần trả phí ELFT để tiến hành sinh sản, chi phí c�
 | 6            | 2100      |
 | 7            | 3400      |
 
+30% of the reproduction cost will be automatically destroyed, and the rest will be used as project income.
+
 #### **Ấp Nở Trứng**
 
 Trứng Elf cần được gửi đến phòng sinh sản để ấp nở,
@@ -78,7 +80,7 @@ Male elf players receive a quarter of the reproduction fee in return.
 
 From the fairy eggs hatch the lowest form of elf.
 
-The elves reproduce to produce offspring elves, and the offspring's regular abilities have a random probability of plus or minus 20% according to the offspring's own NFT character value.
+The elves reproduce to produce offspring elves, and the offspring's regular abilities have a random probability of plus or minus 10% according to the offspring's own NFT character value.
 
 Two sprites may spawn new NFT characters, and their rarity determines the probability that their offspring will have high rarity.
 
