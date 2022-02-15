@@ -8,5 +8,5 @@ Khi 2 Elf đạt điều kiện cùng được gửi đến phòng sinh sản, n
 
 #### Ấp Nở Trứng
 
-Trứng Elf cần được gửi đến phòng sinh sản để ấp nở ra Baby Elf. Quá trình phát triển của trứng Elf sẽ tạm dừng khi bị lấy ra khỏi phòng sinh sản. Thời gian ấp nở trứng sẽ dựa vào chu kỳ ấp nở của Elf cha mẹ. Trứng của Elf có độ hiếm cao và Genesis Elf cần **thời gian ấp nở ngắn hơn.**
+Trứng Elf cần được gửi đến phòng sinh sản để ấp nở ra Baby Elf. Quá trình phát triển của trứng Elf sẽ tạm dừng khi bị lấy ra khỏi phòng sinh sản. The hatching time of the egg depends on the elf's incubation period, such as the rare or powerful elf, the incubation period **will be particularly short**.
 

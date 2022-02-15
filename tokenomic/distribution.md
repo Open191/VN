@@ -20,10 +20,6 @@ The marketing section has 7 linear releases, one release per month. Early invest
 
 The initial liquidity and advisor part of the contracts are released at one time when they are generated.
 
-&#x20;The reward part of the game is released according to the rules of the game. For details, see the introduction to the gameplay.
+The reward part of the game is released according to the rules of the game. For details, see the introduction to the gameplay.
 
-~~Team phát triển sẽ bắt đầu được mở khoá token sau 2 tháng kể từ khi phát hành game, mỗi tháng mở 0.3%, tổng cộng sau 42 tháng sẽ mở khoá hoàn toàn 100% token.~~
-
-~~Việc quản lý và vận hành thị trường sẽ do cộng đồng DAO tự thực hiện.~~
-
-~~Nhà đầu tư ban đầu sẽ được mở khoá 20% token sau khi hoàn tất đợt bán Box vòng whitelist, 20% tiếp theo sau khi hoàn tất đợt bán Box vòng Public, 60% cho những tháng tiếp theo ( mỗi tháng 20%, bắt đầu sau 30 ngày hoàn tất đợt bán Box vòng Public).~~
+~~~~
