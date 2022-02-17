@@ -3,7 +3,7 @@
 * [Welcome to Elfworld!](README.md)
 * [Language](language/README.md)
   * [English （Main）](https://docs.elfworld.games)
-  * [Việt Nam](https://elfworld.games)
+  * [Việt Nam](https://docs.elfworld.games/vn/)
 
 ## Tokenomic
 
