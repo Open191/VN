@@ -1,3 +1,3 @@
 # Team
 
-![](../.gitbook/assets/Team.jpg)
+![](../.gitbook/assets/Team-vn.jpg)
