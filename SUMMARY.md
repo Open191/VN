@@ -20,12 +20,12 @@
 * [Quả Cầu Elf](gameplay/elfball.md)
 * [Phòng Huấn Luyện](gameplay/training-venue.md)
 * [Tiến Hóa](gameplay/evolution-trailer.md)
-* [Sinh Sản](gameplay/breeding.md)
+* [Nhân giống](gameplay/breeding.md)
 * [Đấu Trường (sắp ra mắt)](gameplay/duel-field.md)
 * [Market (sắp ra mắt)](gameplay/market.md)
-* [Phòng Sinh Sản (sắp ra mắt)](gameplay/day-care.md)
 * [Thám Hiểm Hoang Dã (sắp ra mắt)](gameplay/wilderness-explorationtrailer.md)
 * [Mua Bán Đất Đai (sắp ra mắt)](gameplay/land-saletrailer.md)
+* [Phòng Nhân Giống (sắp ra mắt)](gameplay/day-care.md)
 
 ## Elf Toàn Thư
 

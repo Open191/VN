@@ -18,6 +18,8 @@ Mỗi giao dịch chuyển khoản sẽ bị trừ thuế 6%. Trong đó 2% sẽ
 
 Trong game khi tiêu phí để tiến hóa/ nhân giống cũng sẽ tiêu hủy đi bộ phận Token, chi tiết xem tại giới thiệu tính năng.
 
+Tác dụng của Quỹ chung: khi giá trị Token giảm nhiều sẽ khởi động cơ chế bảo vệ thị trường, thu mua lại ELFT và NFT Elf.
+
 #### EG(ELFGOLD)
 
 EG là Token trong game, có thể được thu thập thông qua các chế độ chơi như PVE, PVP,… trong game, EG có thể quy đổi thành ELFT.
