@@ -36,7 +36,7 @@ Người chơi cần trả phí ELFT để tiến hành sinh sản, chi phí c�
 | 6            | 2100      |
 | 7            | 3400      |
 
-30% of the reproduction cost will be automatically destroyed, and the rest will be used as project income.
+30% trong chi phí tiến hóa sẽ bị tiêu hủy, 70% còn lại sẽ được đưa vào quỹ game.
 
 #### **Ấp Nở Trứng**
 

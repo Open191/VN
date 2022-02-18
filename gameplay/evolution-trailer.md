@@ -10,13 +10,13 @@ Controlled by elf evolution level. Elf evolution form: baby form, adult form, ul
 
 #### **Phí tiến hóa**
 
-| Độ Hiếm | Phí tiến hóa thành Adult Elf | Phí tiến hóa thành Ultimate Elf |
-| ------- | ---------------------------- | ------------------------------- |
-| N       | 100                          | 200                             |
-| R       | 120                          | 240                             |
-| SR      | 140                          | 280                             |
-| SSR     | 160                          | 320                             |
-| GR      | 180                          | 360                             |
-| UR      | 200                          | 400                             |
+| Độ Hiếm | Phí tiến hóa thành Adult Elf（ELFT）） | Phí tiến hóa thành Ultimate Elf （ELFT）） |
+| ------- | ----------------------------------- | --------------------------------------- |
+| N       | 100                                 | 200                                     |
+| R       | 120                                 | 240                                     |
+| SR      | 140                                 | 280                                     |
+| SSR     | 160                                 | 320                                     |
+| GR      | 180                                 | 360                                     |
+| UR      | 200                                 | 400                                     |
 
-30% of the evolution cost will be automatically destroyed, and the rest will be used as project income.
+30% trong chi phí tiến hóa sẽ bị tiêu hủy, 70% còn lại sẽ được đưa vào quỹ game.
