@@ -8,13 +8,13 @@ Sức mạnh cơ bản là các chỉ số của một Elf trong chiến đấu.
 | HP       | Hit Points          | Điểm Sinh Lực          |
 | POT      | Potential           | Điểm Tiềm Năng         |
 | STA      | Stamina             | Bền Bỉ                 |
-| +sta     | Stamina Growth      | Tăng trưởng bền bỉ     |
+| _+sta_   | Stamina Growth      | Tăng trưởng bền bỉ     |
 | STR      | Strength            | Lực Lượng              |
-| +str     | Strength Growth     | Tăng trưởng lực lượng  |
+| _+str_   | Strength Growth     | Tăng trưởng lực lượng  |
 | AGI      | Agility             | Nhanh Nhẹn             |
-| +agi     | Agility Growth      | Tăng trưởng nhanh nhẹn |
+| _+agi_   | Agility Growth      | Tăng trưởng nhanh nhẹn |
 | INT      | Intelligence        | Trí Lực                |
-| +int     | Intelligence Growth | Tăng trưởng trí lực    |
+| _+int_   | Intelligence Growth | Tăng trưởng trí lực    |
 | DAM      | Damage              | Sát Thương             |
 | ADF      | Magic Defense       | Kháng Phép             |
 | ARM      | Armor               | Hộ Giáp                |
@@ -24,3 +24,24 @@ Sức mạnh cơ bản là các chỉ số của một Elf trong chiến đấu.
 | HIT      | Hit                 | Đánh Chính Xác         |
 | SPE      | Speed               | Tốc Độ                 |
 
+$$
+HP=STA*10
+$$
+
+$$
+ATK=DAM*1+ADF*1+ARM*1+HP*0.1+SPE+HIT*2+EVA*2.4+CRI*2+CRE*2
+$$
+
+#### Growth formula，about STA ， STR ， AGI ， INT  :&#x20;
+
+$$
+f(x) =n (x -1)* 1.17^{ i*4}+N
+$$
+
+x=Level
+
+i=Number of Evolution
+
+N=( STA / STR / AGI / INT )
+
+n=( _+sta / +str / +agi / +int_ )
