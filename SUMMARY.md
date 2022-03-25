@@ -35,6 +35,10 @@
 * [Sức Mạnh cơ bản](elf-toan-thu/permanent-stats.md)
 * [Chia Nhóm Trứng](elf-toan-thu/egg-group.md)
 
+## Language
+
+* [Language](language-1/language.md)
+
 ## ROAD MAP
 
 * [Road Map](road-map/road-map.md)
