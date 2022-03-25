@@ -1,7 +1,3 @@
----
-description: Coming Soon
----
-
 # Đấu Trường (sắp ra mắt)
 
 ![](../.gitbook/assets/fighting.png)

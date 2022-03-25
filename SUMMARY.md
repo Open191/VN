@@ -1,9 +1,11 @@
 # Table of contents
 
 * [Welcome to Elfworld!](README.md)
-* [Language](language/README.md)
-  * [English （Main）](https://docs.elfworld.games)
-  * [Việt Nam](https://docs.elfworld.games/vn/)
+
+## Language
+
+* [English （Main）](https://docs.elfworld.games)
+* [Việt Nam](https://docs.elfworld.games/vn/)
 
 ## Tokenomic
 
@@ -34,10 +36,6 @@
 * [Thuộc Tính](elf-toan-thu/type.md)
 * [Sức Mạnh cơ bản](elf-toan-thu/permanent-stats.md)
 * [Chia Nhóm Trứng](elf-toan-thu/egg-group.md)
-
-## Language
-
-* [Language](language-1/language.md)
 
 ## ROAD MAP
 
