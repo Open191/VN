@@ -26,13 +26,13 @@ It has a mythical power to resurrect the dead. It was the only known elf to lear
 | HP (Hit Points )          | 15140 |
 | POT (Potential)           | 80    |
 | STA (Stamina)             | 1514  |
-| _+STA_                    | 30.3  |
+| _+sta_                    | 30.3  |
 | STR (Strength)            | 1478  |
-| +_STR_                    | 36.5  |
+| +_str_                    | 36.5  |
 | AGI (Agility)             | 2536  |
-| _+AGI_                    | 44.6  |
+| _+agi_                    | 44.6  |
 | INT (Intelligence)        | 2690  |
-| _+INT_                    | 36.5  |
+| _+int_                    | 36.5  |
 | DAM (Damage)              | 5400  |
 | ADF (Magic Defense)       | 2690  |
 | ARM (Armor)               | 1477  |
@@ -75,13 +75,13 @@ The electromagnetic waves released by the components on the left and right shiel
 | HP (Hit Points )          | 8100  |
 | POT (Potential)           | 32    |
 | STA (Stamina)             | 810   |
-| _+STA_                    | 16.5  |
+| _+sta_                    | 16.5  |
 | STR (Strength)            | 1013  |
-| +_STR_                    | 20.7  |
+| +_str_                    | 20.7  |
 | AGI (Agility)             | 810   |
-| _+AGI_                    | 16.5  |
+| _+agi_                    | 16.5  |
 | INT (Intelligence)        | 405   |
-| _+INT_                    | 8     |
+| _+int_                    | 8     |
 | DAM (Damage)              | 2026  |
 | ADF (Magic Defense)       | 405   |
 | ARM (Armor)               | 1013  |
@@ -124,13 +124,13 @@ It is usually found in groups and often touch tails with other Pichu as a show o
 | HP (Hit Points)           | 6330  |
 | POT (Potential)           | 32    |
 | STA (Stamina)             | 633   |
-| _+STA_                    | 12.1  |
+| _+sta_                    | 12.1  |
 | STR (Strength)            | 1056  |
-| +_STR_                    | 20.3  |
+| +_str_                    | 20.3  |
 | AGI (Agility)             | 887   |
-| _+AGI_                    | 17.1  |
+| _+agi_                    | 17.1  |
 | INT (Intelligence)        | 464   |
-| _+INT_                    | 8.9   |
+| _+int_                    | 8.9   |
 | DAM (Damage)              | 2112  |
 | ADF (Magic Defense)       | 464   |
 | ARM (Armor)               | 1056  |
@@ -173,13 +173,13 @@ It started activities after the sun went down. Because its skin is so thin that 
 | HP (Hit Points)           | 3400  |
 | POT (Potential)           | 16    |
 | STA (Stamina)             | 340   |
-| _+STA_                    | 7.8   |
+| _+sta_                    | 7.8   |
 | STR (Strength)            | 512   |
-| +_STR_                    | 10    |
+| +_str_                    | 10    |
 | AGI (Agility)             | 325   |
-| _+AGI_                    | 6.2   |
+| _+agi_                    | 6.2   |
 | INT (Intelligence)        | 263   |
-| _+INT_                    | 25    |
+| _+int_                    | 25    |
 | DAM (Damage)              | 1024  |
 | ADF (Magic Defense)       | 263   |
 | ARM (Armor)               | 512   |
@@ -222,13 +222,13 @@ The flame on its tail can express its emotions. When it is happy, the flame will
 | HP (Hit Points)           | 3450  |
 | POT (Potential)           | 16    |
 | STA (Stamina)             | 345   |
-| _+STA_                    | 7     |
+| _+sta_                    | 7     |
 | STR (Strength)            | 225   |
-| +_STR_                    | 4.4   |
+| +_str_                    | 4.4   |
 | AGI (Agility)             | 420   |
-| _+AGI_                    | 8.5   |
+| _+agi_                    | 8.5   |
 | INT (Intelligence)        | 450   |
-| _+INT_                    | 9.3   |
+| _+int_                    | 9.3   |
 | DAM (Damage)              | 900   |
 | ADF (Magic Defense)       | 450   |
 | ARM (Armor)               | 225   |
@@ -271,13 +271,13 @@ Its most notable feature is the bulbous seed behind it. There is a symbiotic rel
 | HP (Hit Points)           | 3000  |
 | POT (Potential)           | 16    |
 | STA (Stamina)             | 300   |
-| _+STA_                    | 6.1   |
+| _+sta_                    | 6.1   |
 | STR (Strength)            | 195   |
-| +_STR_                    | 4     |
+| +_str_                    | 4     |
 | AGI (Agility)             | 465   |
-| _+AGI_                    | 9.4   |
+| _+agi_                    | 9.4   |
 | INT (Intelligence)        | 480   |
-| _+INT_                    | 9.7   |
+| _+int_                    | 9.7   |
 | DAM (Damage)              | 960   |
 | ADF (Magic Defense)       | 480   |
 | ARM (Armor)               | 195   |
@@ -320,13 +320,13 @@ It can make an Indian elephant fall in two seconds by enclosing it with poisonou
 | HP (Hit Points)           | 3200  |
 | POT (Potential)           | 16    |
 | STA (Stamina)             | 320   |
-| _+STA_                    | 7.3   |
+| _+sta_                    | 7.3   |
 | STR (Strength)            | 520   |
-| +_STR_                    | 10.6  |
+| +_str_                    | 10.6  |
 | AGI (Agility)             | 300   |
-| _+AGI_                    | 6.3   |
+| _+agi_                    | 6.3   |
 | INT (Intelligence)        | 280   |
-| _+INT_                    | 5     |
+| _+int_                    | 5     |
 | DAM (Damage)              | 1040  |
 | ADF (Magic Defense)       | 280   |
 | ARM (Armor)               | 520   |
@@ -369,13 +369,13 @@ It has been wearing the skull of his deceased mother, so it is not clear what hi
 | HP (Hit Points)           | 830   |
 | POT (Potential)           | 7     |
 | STA (Stamina)             | 83    |
-| _+STA_                    | 3.5   |
+| _+sta_                    | 3.5   |
 | STR (Strength)            | 70    |
-| +_STR_                    | 3.8   |
+| +_str_                    | 3.8   |
 | AGI (Agility)             | 78    |
-| _+AGI_                    | 2.9   |
+| _+agi_                    | 2.9   |
 | INT (Intelligence)        | 90    |
-| _+INT_                    | 2.6   |
+| _+int_                    | 2.6   |
 | DAM (Damage)              | 180   |
 | ADF (Magic Defense)       | 90    |
 | ARM (Armor)               | 70    |
@@ -418,13 +418,13 @@ It can sense danger through a telepathic radar. When it does, it teleports to a 
 | HP (Hit Points)           | 730   |
 | POT (Potential)           | 7     |
 | STA (Stamina)             | 73    |
-| _+STA_                    | 3.5   |
+| _+sta_                    | 3.5   |
 | STR (Strength)            | 91    |
-| +_STR_                    | 3.8   |
+| +_str_                    | 3.8   |
 | AGI (Agility)             | 87    |
-| _+AGI_                    | 2.9   |
+| _+agi_                    | 2.9   |
 | INT (Intelligence)        | 69    |
-| _+INT_                    | 2.6   |
+| _+int_                    | 2.6   |
 | DAM (Damage)              | 182   |
 | ADF (Magic Defense)       | 69    |
 | ARM (Armor)               | 91    |
@@ -467,13 +467,13 @@ It has a strong sense of self-pride. Because of its pride, it has a hard time ac
 | HP (Hit Points)           | 560   |
 | POT (Potential)           | 4     |
 | STA (Stamina)             | 56    |
-| _+STA_                    | 2.3   |
+| _+sta_                    | 2.3   |
 | STR (Strength)            | 42    |
-| +_STR_                    | 1.4   |
+| +_str_                    | 1.4   |
 | AGI (Agility)             | 44    |
-| _+AGI_                    | 1.5   |
+| _+agi_                    | 1.5   |
 | INT (Intelligence)        | 58    |
-| _+INT_                    | 2.4   |
+| _+int_                    | 2.4   |
 | DAM (Damage)              | 116   |
 | ADF (Magic Defense)       | 58    |
 | ARM (Armor)               | 42    |
@@ -516,13 +516,13 @@ It has a long, thin tail surrounded by a light-blue, semitransparent fin. Its ta
 | HP (Hit Points)           | 220   |
 | POT (Potential)           | 2     |
 | STA (Stamina)             | 22    |
-| _+STA_                    | 1.5   |
+| _+sta_                    | 1.5   |
 | STR (Strength)            | 15    |
-| +_STR_                    | 1.2   |
+| +_str_                    | 1.2   |
 | AGI (Agility)             | 18    |
-| _+AGI_                    | 1.3   |
+| _+agi_                    | 1.3   |
 | INT (Intelligence)        | 25    |
-| _+INT_                    | 1.6   |
+| _+int_                    | 1.6   |
 | DAM (Damage)              | 50    |
 | ADF (Magic Defense)       | 25    |
 | ARM (Armor)               | 15    |
@@ -565,13 +565,13 @@ As it grow and develop over time, it will shed its skin many times before finall
 | HP (Hit Points)           | 220   |
 | POT (Potential)           | 2     |
 | STA (Stamina)             | 22    |
-| _+STA_                    | 1.5   |
+| _+sta_                    | 1.5   |
 | STR (Strength)            | 15    |
-| +_STR_                    | 1.2   |
+| +_str_                    | 1.2   |
 | AGI (Agility)             | 18    |
-| _+AGI_                    | 1.3   |
+| _+agi_                    | 1.3   |
 | INT (Intelligence)        | 25    |
-| _+INT_                    | 1.6   |
+| _+int_                    | 1.6   |
 | DAM (Damage)              | 50    |
 | ADF (Magic Defense)       | 25    |
 | ARM (Armor)               | 15    |
