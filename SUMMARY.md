@@ -6,6 +6,7 @@
 
 * [English （Main）](https://docs.elfworld.games)
 * [Việt Nam](https://docs.elfworld.games/vn/)
+* [繁體中文](https://docs.elfworld.games/tc/)
 
 ## Tokenomic
 
