@@ -144,7 +144,7 @@ It is usually found in groups and often touch tails with other Pichu as a show o
 {% tab title="Breeding" %}
 | Type      | Value             |
 | --------- | ----------------- |
-| Egg Group | Mineral           |
+| Egg Group | Fairy/Field       |
 | Gender    | Male : Female=1:1 |
 {% endtab %}
 {% endtabs %}
@@ -193,7 +193,7 @@ It started activities after the sun went down. Because its skin is so thin that 
 {% tab title="Breeding" %}
 | Type      | Value             |
 | --------- | ----------------- |
-| Egg Group | Grass             |
+| Egg Group | Flying            |
 | Gender    | Male : Female=1:1 |
 {% endtab %}
 {% endtabs %}
@@ -487,7 +487,7 @@ It has a strong sense of self-pride. Because of its pride, it has a hard time ac
 {% tab title="Breeding" %}
 | Type      | Value             |
 | --------- | ----------------- |
-| Egg Group | Water             |
+| Egg Group | Field/Water       |
 | Gender    | Male : Female=1:1 |
 {% endtab %}
 {% endtabs %}
