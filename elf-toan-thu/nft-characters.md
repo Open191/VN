@@ -23,7 +23,7 @@ It has a mythical power to resurrect the dead. It was the only known elf to lear
 | Type                      | Value |
 | ------------------------- | ----- |
 | AKT (Attack Power)        | 21737 |
-| Hit Points (HP)           | 15140 |
+| HP (Hit Points )          | 15140 |
 | POT (Potential)           | 80    |
 | STA (Stamina)             | 1514  |
 | _+STA_                    | 30.3  |
