@@ -49,6 +49,17 @@ It has a mythical power to resurrect the dead. It was the only known elf to lear
 | Egg Group | Alpha             |
 | Gender    | Male : Female=1:1 |
 {% endtab %}
+
+{% tab title="Skill" %}
+| Name           | Description                                                                                                           |
+| -------------- | --------------------------------------------------------------------------------------------------------------------- |
+| Sacred Fire    | Inflicts 100% fire-type damage to 2 targets with less HP, and has a chance to burn the target for 2 rounds            |
+| Sacred Fire•I  | Inflicts 100% fire-type damage to 2 targets with less HP, and has has greater chance to burn the targets for 2 rounds |
+| Sacred Fire•II | Inflicts 100% fire-type damage to 2 targets with less HP, and will surely burn the targets for 2 rounds               |
+| Sky Attack     | Inflicts 100% fire-type damage to all enemies, and has a chance to reduce the rage of all targets by 25               |
+| Sky Attack•Ⅰ   | Inflicts 125% fire-type damage to all enemies , and has greater chance to reduce rage of all targets by 25            |
+| Sky Attack•Ⅱ   | Inflicts 160% fire-type damage to all enemies , and will surely reduce rage of all targets by 25                      |
+{% endtab %}
 {% endtabs %}
 
 ### Magnemite <a href="#magnemite" id="magnemite"></a>
@@ -97,6 +108,17 @@ The electromagnetic waves released by the components on the left and right shiel
 | --------- | ----------------- |
 | Egg Group | Mineral           |
 | Gender    | Male : Female=1:1 |
+{% endtab %}
+
+{% tab title="Skill" %}
+| Name            | Description                                                                                                                                     |
+| --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Thunder Shock   | Inflicts 120% electric-type damage to a single enemy in the rear row                                                                            |
+| Thunder Shock•Ⅰ | Inflicts 150% electric-type damage to a single enemy in the rear row                                                                            |
+| Thunder Shock•Ⅱ | Inflicts 200% electric-type damage to a single enemy in the rear row                                                                            |
+| Magnet Rise     | Inflicts 90% electric-type damage to the enemy's rear row , and has a chance to reduce the target's attack power and armor by 15% for 2 rounds  |
+| Magnet Rise•Ⅰ   | Inflicts 110% electric-type damage to the enemy's rear row , and has a chance to reduce the target's attack power and armor by 20% for 2 rounds |
+| Magnet Rise•Ⅱ   | Inflicts 130% electric-type damage to the enemy's rear row , and will surely reduce the target's attack power and armor by 25% for 2 rounds     |
 {% endtab %}
 {% endtabs %}
 
@@ -147,6 +169,17 @@ It is usually found in groups and often touch tails with other Pichu as a show o
 | Egg Group | Fairy/Field       |
 | Gender    | Male : Female=1:1 |
 {% endtab %}
+
+{% tab title="Skill" %}
+| Name            | Description                                                                                                                                                                  |
+| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Thunder Shock   | Move to the front of the enemy target and release lightning, causing the enemy front row to take 180% electric-type damage and reduce the target's armor by 10% for 2 rounds |
+| Thunder Shock•Ⅰ | Move to the front of the enemy target and release lightning, causing the enemy front row to take 210% electric-type damage and reduce the target's armor by 20% for 2 rounds |
+| Thunder Shock•Ⅱ | Move to the front of the enemy target and release lightning, causing the enemy front row to take 240% electric-type damage and reduce the target's armor by 40% for 2 rounds |
+| Thunderbolt     | Releases a lightning beam, causing 250% electric-type damage to a single enemy target , with a high probability to stun the target for 1 turn                                |
+| Thunderbolt•Ⅰ   | Releases a lightning beam, causing 300% electric-type damage to a single enemy target , with a high probability to stun the target for 2 rounds                              |
+| Thunderbolt•Ⅱ   | Releases a lightning beam, causing 350% electric-type damage to a single enemy target , with will surely stun the target for 2 turns                                         |
+{% endtab %}
 {% endtabs %}
 
 ### Zubat <a href="#zubat" id="zubat"></a>
@@ -195,6 +228,17 @@ It started activities after the sun went down. Because its skin is so thin that 
 | --------- | ----------------- |
 | Egg Group | Flying            |
 | Gender    | Male : Female=1:1 |
+{% endtab %}
+
+{% tab title="Skill" %}
+| Name         | Description                                                                                                               |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------- |
+| Leech Life   | Inflicts 65% grass-type damage to all enemies in the front row                                                            |
+| Leech Life•Ⅰ | Inflicts 80% grass-type damage to all enemies in the front row                                                            |
+| Leech Life•Ⅱ | Inflicts 100% grass-type damage to all enemies in the front row                                                           |
+| Supersonic   | Inflicts 100% grass-type damage to all enemies in the front row, and has a chance to reduce the target's rage by 50       |
+| Supersonic•Ⅰ | Inflicts 120% grass-type damage to all enemies in the front row, and has greater chance to reduce the target's rage by 50 |
+| Supersonic•Ⅱ | Inflicts 160% grass-type damage to all enemies in the front row, and will surely reduce the target's rage by 50           |
 {% endtab %}
 {% endtabs %}
 
@@ -245,6 +289,17 @@ The flame on its tail can express its emotions. When it is happy, the flame will
 | Egg Group | Dragon/Monster    |
 | Gender    | Male : Female=1:1 |
 {% endtab %}
+
+{% tab title="Skill" %}
+| Name        | Description                                                                                                                                                        |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Ember       | Spit out a fireball, dealing 120% fire-type damage to a single enemy target in the front row                                                                       |
+| Ember•Ⅰ     | Spit out a fireball, dealing 150% fire-type damage to a single enemy target in the front row                                                                       |
+| Ember•Ⅱ     | Spit out a fireball, dealing 200% fire-type damage to a single enemy target in the front row                                                                       |
+| Jet Flame   | The jet pierces through the flame, causing 160% fire-type damage to the enemy's vertical target , and has a chance to cause burning damage, lasting 3 rounds       |
+| Jet Flame•Ⅰ | The jet pierces through the flame, causing 200% fire-type damage to the enemy's vertical target , and has greater chance to cause burning damage, lasting 3 rounds |
+| Jet Flame•Ⅱ | The jet pierces through the flame, causing 280% fire-type damage to the enemy's vertical target , and will surely cause burning damage, lasting 3 rounds           |
+{% endtab %}
 {% endtabs %}
 
 ### Bulbasaur <a href="#bulbasaur" id="bulbasaur"></a>
@@ -293,6 +348,17 @@ Its most notable feature is the bulbous seed behind it. There is a symbiotic rel
 | --------- | ----------------- |
 | Egg Group | Grass/Monster     |
 | Gender    | Male : Female=1:1 |
+{% endtab %}
+
+{% tab title="Skill" %}
+| Name         | Description                                                                                                                   |
+| ------------ | ----------------------------------------------------------------------------------------------------------------------------- |
+| Vine Whip    | Summons a Vine Whip, inflicts 120% grass-type damage to a single enemy target in the rear row                                 |
+| Vine Whip•Ⅰ  | Summons a Vine Whip, inflicts 150% grass-type damage to a single enemy target in the rear row                                 |
+| Vine Whip•Ⅱ  | Summons a Vine Whip, inflicts 180% grass-type damage to a single enemy target in the rear row                                 |
+| Razor Leaf   | Move to the middle of the enemy lineup, summon the swirling leaves, inflicts 120% grass-type damage to 4 random enemy targets |
+| Razor Leaf•Ⅰ | Move to the middle of the enemy lineup, summon swirling leaves, inflicts 150% grass-type damage to 5 random enemy targets     |
+| Razor Leaf•Ⅱ | Move to the middle of the enemy lineup and summon swirling leaves, inflicts 180% grass-type damage to all enemy targets       |
 {% endtab %}
 {% endtabs %}
 
@@ -343,6 +409,17 @@ It can make an Indian elephant fall in two seconds by enclosing it with poisonou
 | Egg Group | Amorphous         |
 | Gender    | Male : Female=1:1 |
 {% endtab %}
+
+{% tab title="Skill" %}
+| Name           | Description                                                                   |
+| -------------- | ----------------------------------------------------------------------------- |
+| Shadow Ball    | Inflicts 90% ghost-type damage to the enemy front row single                  |
+| Shadow Ball•Ⅰ  | Inflicts 110% ghost-type damage to the enemy front row single                 |
+| Shadow Ball•Ⅱ  | Inflicts 150% ghost-type damage to the enemy front row single                 |
+| Shadow Punch   | Inflicts 180% ghost-type damage to the enemy elf with the lowest health       |
+| Shadow Punch•Ⅰ | Inflicts 220% ghost-type damage to the enemy elf with the lowest health       |
+| Shadow Punch•Ⅱ | Inflicts 260% ghost-type damage to the two enemy elves with the lowest health |
+{% endtab %}
 {% endtabs %}
 
 ### Cubone <a href="#cubone" id="cubone"></a>
@@ -391,6 +468,17 @@ It has been wearing the skull of his deceased mother, so it is not clear what hi
 | --------- | ----------------- |
 | Egg Group | Monster           |
 | Gender    | Male : Female=1:1 |
+{% endtab %}
+
+{% tab title="Skill" %}
+| Name          | Description                                            |
+| ------------- | ------------------------------------------------------ |
+| Flame Wheel   | Inflicts 105% fire-type damage to the enemy's rear row |
+| Flame Wheel•Ⅰ | Inflicts 145% fire-type damage to the enemy's rear row |
+| Flame Wheel•Ⅱ | Inflicts 195% fire-type damage to the enemy's rear row |
+| Flame Burst   | Inflicts 100% fire-type damage to all enemies          |
+| Flame Burst•Ⅰ | Inflicts 120% fire-type damage to all enemies          |
+| Flame Burst•Ⅱ | Inflicts 150% fire-type damage to all enemies          |
 {% endtab %}
 {% endtabs %}
 
@@ -441,6 +529,17 @@ It can sense danger through a telepathic radar. When it does, it teleports to a 
 | Egg Group | Human-Like        |
 | Gender    | Male : Female=1:1 |
 {% endtab %}
+
+{% tab title="Skill" %}
+| Name           | Description                                                                                                                              |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Psyshock       | Inflicts 110% psychic-type attack on single enemy                                                                                        |
+| Psyshock•Ⅰ     | Inflicts 130% psychic-type attack on single enemy                                                                                        |
+| Psyshock•Ⅱ     | Inflicts 160% psychic-type attack on single enemy                                                                                        |
+| Psycho Shift   | Inflicts 120% psychic-type damage to the enemy's vertical target, and has a low probability to make the enemy unable to use rage skills  |
+| Psycho Shift•Ⅰ | Inflicts 150% psychic-type damage to the enemy's vertical target, and has a low probability to make the enemy unable to use rage skills  |
+| Psycho Shift•Ⅱ | Inflicts 200% psychic-type damage to the enemy's vertical target , and has a low probability to make the enemy unable to use rage skills |
+{% endtab %}
 {% endtabs %}
 
 ### Piplup <a href="#larvitar" id="larvitar"></a>
@@ -489,6 +588,17 @@ It has a strong sense of self-pride. Because of its pride, it has a hard time ac
 | --------- | ----------------- |
 | Egg Group | Field/Water       |
 | Gender    | Male : Female=1:1 |
+{% endtab %}
+
+{% tab title="Skill" %}
+| Name          | Description                                                              |
+| ------------- | ------------------------------------------------------------------------ |
+| Anger Hit     | Spit out water arrows, inflicts 100% water-type damage to a single enemy |
+| Anger Hit•Ⅰ   | Spit out water arrows, inflicts 130% water-type damage to a single enemy |
+| Anger Hit•Ⅱ   | Spit out water arrows, inflicts 170% water-type damage to a single enemy |
+| Water Arrow   | Inflicts 100% water-type damage to the target's back row                 |
+| Water Arrow•Ⅰ | Inflicts 120% water-type damage to the target's back row                 |
+| Water Arrow•Ⅱ | Inflicts 150% water-type damage to the target's back row                 |
 {% endtab %}
 {% endtabs %}
 
@@ -539,6 +649,17 @@ It has a long, thin tail surrounded by a light-blue, semitransparent fin. Its ta
 | Egg Group | Water             |
 | Gender    | Male : Female=1:1 |
 {% endtab %}
+
+{% tab title="Skill" %}
+| Name          | Description                                                              |
+| ------------- | ------------------------------------------------------------------------ |
+| Anger Hit     | Spit out water arrows, inflicts 100% water-type damage to a single enemy |
+| Anger Hit•Ⅰ   | Spit out water arrows, inflicts 130% water-type damage to a single enemy |
+| Anger Hit•Ⅱ   | Spit out water arrows, inflicts 170% water-type damage to a single enemy |
+| Water Arrow   | Inflicts 100% water-type damage to the target's back row                 |
+| Water Arrow•Ⅰ | Inflicts 120% water-type damage to the target's back row                 |
+| Water Arrow•Ⅱ | Inflicts 150% water-type damage to the target's back row                 |
+{% endtab %}
 {% endtabs %}
 
 ### Caterpie <a href="#goldeen" id="goldeen"></a>
@@ -587,6 +708,17 @@ As it grow and develop over time, it will shed its skin many times before finall
 | --------- | ----------------- |
 | Egg Group | Bug               |
 | Gender    | Male : Female=1:1 |
+{% endtab %}
+
+{% tab title="Skill" %}
+| Name         | Description                                                                                                     |
+| ------------ | --------------------------------------------------------------------------------------------------------------- |
+| Horn Leech   | Inflicts 80% ground-type damage to a single enemy                                                               |
+| Horn Leech•Ⅰ | Inflicts 100% ground-type damage to a single enemy                                                              |
+| Horn Leech•Ⅱ | Inflicts 120% ground-type damage to a single enemy                                                              |
+| Leaf Blade   | Inflicts 120% ground-type damage to a single enemy, hits the key point, and reduces the target's defense by 20% |
+| Leaf Blade•Ⅰ | Inflicts 130% ground-type damage to a single enemy, hits the key point, and reduces the target's defense by 20% |
+| Leaf Blade•Ⅱ | Inflicts 150% ground-type damage to a single enemy, hits the key point, and reduces the target's defense by 20% |
 {% endtab %}
 {% endtabs %}
 
